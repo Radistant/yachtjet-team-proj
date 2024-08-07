@@ -96,7 +96,8 @@
   display: flex;
   justify-content: center;
   margin-bottom: 40px;
-  gap: 10px;
+  gap: 8px;
+  cursor: pointer;
 }
 
 .mob-menu-social-icon {
